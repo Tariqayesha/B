@@ -159,7 +159,7 @@ header {
 }
 
 #history-section h2 {
-    margin-top: 20;
+    margin-top: 10;
     color: #004d73;
 }
 
@@ -192,8 +192,10 @@ header {
 }
 
 #chart-container {
+    margin: 20px;
     background-color: white;
     padding: 20px;
     border-radius: 8px;
+    height: max-content;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
